@@ -1,2 +1,3 @@
 Hello World
 Ку-ку
+new string 2222
